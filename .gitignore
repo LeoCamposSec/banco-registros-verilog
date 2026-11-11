@@ -1,0 +1,19 @@
+# ModelSim / Questa
+work/
+transcript
+*.wlf
+*.vstf
+*.mpf
+*.cr.mti
+*.mti
+modelsim.ini
+
+# Icarus Verilog
+*.out
+*.vcd
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
